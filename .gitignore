@@ -1,0 +1,7 @@
+ai-env/
+.venv/
+env/
+venv/
+__pycache__/
+.env
+*.ipynb_checkpoints/
