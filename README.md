@@ -9,7 +9,7 @@ This project fetches external data via an API call and passes it through a Huggi
 
 1.**Clone the repository:**
    ```bash
-   git clone [https://github.com/zeinababdo546/starter_kit.git](https://github.com/zeinababdo546/starter_kit.git)
+   git clone https://github.com/zeinababdo546/starter_kit.git
    cd starter_kit
 
 ```
@@ -27,7 +27,7 @@ source ai-env/Scripts/activate
 3.**Install dependencies:**
 ```bash
 pip install -r requirements.txt
-pip install torch --index-url [https://download.pytorch.org/whl/cpu](https://download.pytorch.org/whl/cpu)
+pip install torch --index-url https://download.pytorch.org/whl/cpu
 
 ```
 
