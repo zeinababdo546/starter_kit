@@ -1,13 +1,13 @@
-# AI Engineer Starter Kit
+# **AI Engineer Starter Kit**
 
 A simple AI pipeline project connecting an external REST API with Hugging Face Transformers.
 
-## 📌 Project Overview
+## *📌Project Overview*
 This project fetches external data via an API call and passes it through a Hugging Face `sentiment-analysis` pipeline to perform AI inference on the retrieved text.
 
-## 🚀 How to Run
+## *🚀How to Run*
 
-1. **Clone the repository:**
+1.**Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ai-engineer-starter-kit.git](https://github.com/YOUR_USERNAME/ai-engineer-starter-kit.git)
    cd ai-engineer-starter-kit
