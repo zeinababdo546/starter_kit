@@ -2,10 +2,10 @@
 
 A simple AI pipeline project connecting an external REST API with Hugging Face Transformers.
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project fetches external data via an API call and passes it through a Hugging Face `sentiment-analysis` pipeline to perform AI inference on the retrieved text.
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 1.**Clone the repository:**
    ```bash
