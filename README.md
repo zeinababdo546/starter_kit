@@ -1,4 +1,4 @@
-# AI Engineer Starter Kit
+## AI_Engineer_Starter_Kit
 
 ### 📌 Project Overview
 This project fetches external data via an API call and passes it through a Hugging Face `sentiment-analysis` pipeline to perform AI inference on the retrieved text.
@@ -7,14 +7,14 @@ This project fetches external data via an API call and passes it through a Huggi
 
 ### 🚀 How to Run
 
-1. **Clone the repository:**
+**1.** **Clone the repository:**
 ```bash
 git clone [https://github.com/zeinababdo546/starter_kit.git](https://github.com/zeinababdo546/starter_kit.git)
 cd starter_kit
 
 ```
 
-2. **Set up and activate environment:**
+**2.** **Set up and activate environment:**
 
 * **Option A (Using Conda - Recommended):**
 
@@ -44,6 +44,4 @@ pip install -r requirements.txt
 
 4. **Run the Notebook:**
 Open `notebook.ipynb` in VS Code or Jupyter Notebook, select the `ai-env` kernel, and run all cells.
-
-```
 
