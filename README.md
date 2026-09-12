@@ -3,6 +3,8 @@
 ### 📌 Project Overview
 This project fetches external data via an API call and passes it through a Hugging Face `sentiment-analysis` pipeline to perform AI inference on the retrieved text.
 
+---
+
 ### 🚀 How to Run
 
 1. **Clone the repository:**
@@ -20,6 +22,7 @@ conda activate ai-env
 
 ```
 
+
 * **Option B (Using venv):**
 ```bash
 python -m venv ai-env
@@ -30,15 +33,19 @@ source ai-env/Scripts/activate
 
 ```
 
+
+
+
 3. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 
 ```
 
+
 4. **Run the Notebook:**
 Open `notebook.ipynb` in VS Code or Jupyter Notebook, select the `ai-env` kernel, and run all cells.
 
+```
 
-
-
+```
