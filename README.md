@@ -16,9 +16,9 @@ This project fetches external data via an API call and passes it through a Huggi
 
 2. **Set up and activate environment:**
 * **Option A (Using Conda - Recommended):**
-```bash
-conda create -n ai-env python=3.10 -y
-conda activate ai-env
+    ```bash
+    conda create -n ai-env python=3.10 -y
+    conda activate ai-env
 
 ```
 
