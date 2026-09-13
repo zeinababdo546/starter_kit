@@ -51,5 +51,3 @@ pip install -r requirements.txt
 
 Open `notebook.ipynb` in VS Code or Jupyter Notebook, select the `ai-env` kernel, and run all cells.
 
-```
-
