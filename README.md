@@ -1,9 +1,9 @@
 ## AI Engineer Starter Kit
 
-## 📌 Project Overview
+###  Project Overview
 This project fetches external text data via a REST API call and processes it through a Hugging Face `sentiment-analysis` pipeline to perform AI inference on the retrieved text.
 
-## 🚀 How to Run
+###  How to Run
 
 ### 1. Clone the Repository
 ```bash
