@@ -9,6 +9,7 @@ This project fetches external text data via a REST API call and processes it thr
 ```bash
 git clone [https://github.com/zeinababdo546/starter_kit.git](https://github.com/zeinababdo546/starter_kit.git)
 cd starter_kit
+```
 
 ### 2. Set Up and Activate Environment
 
